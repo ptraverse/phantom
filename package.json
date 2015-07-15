@@ -1,0 +1,25 @@
+{
+  "name": "phantomjscheck",
+  "version": "0.0.0",
+  "description": "Playing with PhantomJS",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ptraverse/phantom.git"
+  },
+  "keywords": [
+    "phantomjs"
+  ],
+  "author": "ptraverse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptraverse/phantom/issues"
+  },
+  "homepage": "https://github.com/ptraverse/phantom",
+  "dependencies": {
+    "phantomjs": "^1.9.17"
+  }
+}
